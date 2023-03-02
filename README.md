@@ -1,3 +1,5 @@
+[callstack/linaria: Zero-runtime CSS in JS library](https://github.com/callstack/linaria)
+
 ## WORKING
 
 ### 1. vite 셋팅
@@ -9,6 +11,7 @@ yarn create vite
 
 ### 2. vite에서 셋팅된 App.tsx cleanup
 
+`App.tsx`에서 불필요한 코드들 삭제
 
 
 ### 3. `@linaria/core` 설치
