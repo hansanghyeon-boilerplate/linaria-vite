@@ -65,3 +65,18 @@ export default defineConfig({
 WOW!!
 
 <img width="489" alt="스크린샷 2023-03-02 오후 5 27 32" src="https://user-images.githubusercontent.com/42893446/222373213-4dae9842-a381-4171-907e-dc01647a1a12.png">
+
+7. css속성, styled속성에서 구성요소 지정해서 사용하기
+
+[callstack/linaria: Zero-runtime CSS in JS library](https://github.com/callstack/linaria#interoperability-with-other-css-in-js-libraries)
+
+<img width="1002" alt="스크린샷 2023-03-02 오후 5 33 16" src="https://user-images.githubusercontent.com/42893446/222374448-c7bff37c-27bf-4507-a967-cae9a8ccd7ac.png">
+
+WHY?!!?!?!
+
+```bash
+🟥 yarn add -D @linaria/babel-plugin-interop
+```
+
+설치하지 않는다.
+
